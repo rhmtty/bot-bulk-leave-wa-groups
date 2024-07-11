@@ -2,7 +2,7 @@
 # Bot Bulk Leave WAG
 
 
-## Requrements
+## Requirements
 - NodeJs `v18+`
 - Yarn
 ## Run Locally
